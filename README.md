@@ -1,2 +1,2 @@
 # apnacollege-demo
-this is learning for purpose
+this is for learning purpose
